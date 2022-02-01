@@ -150,5 +150,5 @@ setTimeout(function ()
 
         });
 
-    }, 0);
+    }, 1000);
 });
