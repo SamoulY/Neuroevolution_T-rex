@@ -22,7 +22,7 @@ setTimeout(function ()
     /**
      * 创建对应数目的小恐龙游戏iframe
      */
-    gameLib.createIframe(brainAIs.length());
+    gameLib.createIframe(4);
 
     setTimeout(function ()
     {
